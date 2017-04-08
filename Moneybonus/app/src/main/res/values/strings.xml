@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Moneybonus</string>
+    <string-array name="country">
+        <item>USA</item>
+        <item>Vietnam</item>
+        <item>Singapore</item>
+        <item>Japan</item>
+        <item>Europe</item>
+        <item>England</item>
+    </string-array>
+
+    <string name="hint">country</string>
+</resources>
