@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LotteLotte</string>
+    <string-array name="province">
+        <item>An Giang</item>
+        <item>Binh Duong</item>
+        <item>Bac Lieu</item>
+        <item>Binh Phuoc</item>
+        <item>Ca Mau</item>
+        <item>Can Tho</item>
+        <item>Ho Chi Minh</item>
+
+    </string-array>
+    <string name="hint">province</string>
+</resources>
